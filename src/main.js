@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         CET猜号助手
-// @namespace    http://tampermonkey.net/
+// @namespace    http://www.lolimay.cn
 // @version      1.0
 // @description  帮助你更快地猜出你的四六级准考证号（座位号考场号自动填充并递增）
-// @author       lolimay
+// @author       lolimay <1404363070@qq.com>
 // @match        http://cet.neea.edu.cn/cet/
 // @grant        none
 // ==/UserScript==

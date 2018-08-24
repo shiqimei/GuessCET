@@ -35,8 +35,11 @@
 
 ## 脚本使用方法
 ### 1. 下载 Chrome 拓展 [Tampermonkey](https://tampermonkey.net/)
-这是自动执行用户自定义脚本的 Chrome 拓展
-### 2. 将 src/main.js 中的内容添加到 Tampermonkey 的自定义脚本中
+Download Tampermonkey Stable 将它添加到你的 Chrome 扩展程序中，这时你会发现你的 Chrome 的右上角多了个 <img src="http://images.lolimay.cn/18-8-23/18970281.jpg" />图标，点击这个图标选择 **添加新脚本** ，将编辑器清空， 如下图所示
+
+![](http://images.lolimay.cn/18-8-23/59866667.jpg)
+
+### 2. 将 [src/main.js](src/main.js) 中的内容添加到 Tampermonkey 的自定义脚本中
 记住配置相关的参数
 ### 3. 打开 [四六级查分网站](http://cet.neea.edu.cn/cet/)
 脚本会自动填充你的信息，这是只需要不停地输入验证码，回车查看结果。
